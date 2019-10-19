@@ -9,7 +9,7 @@ __pycache__/
 *.so
 :wq
 
-
+git config --system http.sslbackend openssl
 .idea
 # Distribution / packaging
 .Python
